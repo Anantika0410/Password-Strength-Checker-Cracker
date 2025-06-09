@@ -19,11 +19,3 @@ cracked_log.txt
 is auto-generated when a password hash is successfully cracked using the tool.
 
 
-## 💻 Screenshots
-
-### 🔐 Password Strength Check
-![Password Strength](./C:\Users\a.LAPTOP-UJVKIRH2\OneDrive\Pictures\Screenshots\password_strength.png)
-
-### 🔓 Hash Cracking
-![Hash Cracking](./hash_crack.png)
-
