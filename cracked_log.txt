@@ -1,0 +1,6 @@
+*Example Content*
+A sample to show what it might look like
+
+SHA256 Hash: ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f = password123
+MD5 Hash: 482c811da5d5b4bc6d497ffa98491e38 = password123
+SHA1 Hash: cbfdac6008f9cab4083784cbd1874f76618d2a97 = password123
